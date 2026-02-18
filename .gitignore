@@ -1,0 +1,10 @@
+```
+# Windows batch files
+*.bat
+
+# Temp files
+*.tmp
+
+# Logs
+*.log
+```
